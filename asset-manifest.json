@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shpt/static/css/main.5410660f.css",
+    "main.js": "/shpt/static/js/main.ea6ea29a.js",
+    "static/js/453.fcd1b9a2.chunk.js": "/shpt/static/js/453.fcd1b9a2.chunk.js",
+    "static/media/image2.jpg": "/shpt/static/media/image2.94e6a26aed0af872cd2b.jpg",
+    "static/media/image1.jpg": "/shpt/static/media/image1.0a23247a243c836cc9c1.jpg",
+    "static/media/image3.jpg": "/shpt/static/media/image3.8c364f61b0258d338633.jpg",
+    "static/media/logo.png": "/shpt/static/media/logo.4e98f36f561a969e8993.png",
+    "static/media/doctorSGlogo.png": "/shpt/static/media/doctorSGlogo.26dcad5a94a3953ef4cf.png",
+    "static/media/Quicksand-Medium.ttf": "/shpt/static/media/Quicksand-Medium.9fd398f86ce80d968762.ttf",
+    "static/media/logo.svg": "/shpt/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/shpt/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/shpt/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/shpt/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/shpt/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/shpt/index.html",
+    "main.5410660f.css.map": "/shpt/static/css/main.5410660f.css.map",
+    "main.ea6ea29a.js.map": "/shpt/static/js/main.ea6ea29a.js.map",
+    "453.fcd1b9a2.chunk.js.map": "/shpt/static/js/453.fcd1b9a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5410660f.css",
+    "static/js/main.ea6ea29a.js"
+  ]
+}
